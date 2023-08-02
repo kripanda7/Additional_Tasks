@@ -1,5 +1,5 @@
-# Generator of Fibonacci sequence
-This project is generator of Fibonacci sequence.
+# Figure area calculator
+This project is calculator of the area for figures.
 
 ### Used libraries
 java.util.Scanner
