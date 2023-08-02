@@ -1,5 +1,5 @@
-# Generator of Fibonacci sequence
-This project is generator of Fibonacci sequence.
+# Generator of the Fibonacci sequence
+This project is generator of the Fibonacci sequence.
 
 ### Used libraries
 java.util.Scanner
